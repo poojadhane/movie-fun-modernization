@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.superbiz.moviefun.moviesapi;
+package org.superbiz.moviefun.albums.moviesapi;
 
 import org.springframework.stereotype.Component;
 import org.springframework.util.StringUtils;

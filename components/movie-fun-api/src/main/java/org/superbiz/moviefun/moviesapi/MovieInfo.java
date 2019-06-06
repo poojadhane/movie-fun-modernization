@@ -1,4 +1,4 @@
-package org.superbiz.moviefun.moviesapi;
+package org.superbiz.moviefun.albums.moviesapi;
 
 public class MovieInfo {
     private Long id;
